@@ -2,7 +2,7 @@
 
 Are you looking for an efficient way to create and update customer data from Excel into your Shopify backend? Look no further! Our repository provides the tools you need to streamline this process.
 
-##Repository Overview:
+1-Repository Overview:
 
 split_data.py: Use this script to split your customer data into manageable chunks, preventing Shopify from blocking your requests and speeding up processing.
 
@@ -10,7 +10,7 @@ kwt_1.py: The heart of the operation. This main code file is where you configure
 
 multi_processing.py: Need that extra speed? This script leverages multiprocessing to run the main code in parallel, significantly improving processing time. Please note that multithreading in the main file isn't advisable, as it may be blocked by Shopify.
 
-##Getting Started:
+2-Getting Started:
 
 Clone the repository to your local machine.
 
