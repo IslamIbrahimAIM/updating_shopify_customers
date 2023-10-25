@@ -1,4 +1,4 @@
-#1🚀 Excel to Shopify Customer Update - Boosting Efficiency 🚀
+🚀 Excel to Shopify Customer Update - Boosting Efficiency 🚀
 
 Are you looking for an efficient way to create and update customer data from Excel into your Shopify backend? Look no further! Our repository provides the tools you need to streamline this process.
 
